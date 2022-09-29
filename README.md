@@ -11,7 +11,7 @@ Open terminal
 ```
 
 ```
-sudo apt-get install zsh
+apt-get install zsh
 ```
 
 ```
@@ -19,7 +19,7 @@ chsh -s $(which zsh)      (zsh be the system default command interpreter)
 ```
 
 ```
-sudo apt install curl
+apt install curl
 ```
 
 ```
