@@ -102,7 +102,7 @@ vi ~/.zshrc
 
 press i
 
-And change plugins=(git zsh-syntax-highlighting zsh-autosuggestions)
+And change plugins=(git aws kubectl zsh-autosuggestions zsh-syntax-highlighting fast-syntax-highlighting zsh-autocomplete)
 
 press esc
 
