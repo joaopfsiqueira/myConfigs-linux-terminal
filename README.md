@@ -82,6 +82,19 @@ https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/aws
 https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/kubectl
 ```
 
+
+## zsh-fast-syntax-highlighting plugin
+
+```
+git clone https://github.com/zdharma-continuum/fast-syntax-highlighting.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/plugins/fast-syntax-highlighting
+```
+
+## zsh-autocomplete plugin
+
+```
+git clone --depth 1 -- https://github.com/marlonrichert/zsh-autocomplete.git $ZSH_CUSTOM/plugins/zsh-autocomplete
+```
+
 ### End
 
 ```
